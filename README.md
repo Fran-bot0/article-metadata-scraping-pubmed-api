@@ -13,6 +13,6 @@ This project extracts and organizes metadata from scientific articles using the 
 - bs4
 - pandas
 
-## Example of a Markdown Outpu File
+## Example of a Markdown Output File
 
 ![file_order](https://github.com/Fran-bot0/article-metadata-scraping-pubmed-api/blob/main/output/output_image.png)
