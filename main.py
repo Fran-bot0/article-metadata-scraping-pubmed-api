@@ -10,7 +10,7 @@ import pandas as pd
 BASE_SEARCH_URL = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?'
 BASE_FETCH_URL = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?'
 DATABASE = 'pubmed'
-RETMAX = '150'
+RETMAX = '150' # maximum number of articles to scrape
 DATE_TYPE = 'pdat' # publication date
 MAX_DATE = '2025' # minimum publication date is 1781/01/01
 MIN_DATE = '2010' 
