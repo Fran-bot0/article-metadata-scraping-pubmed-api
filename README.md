@@ -14,3 +14,5 @@ This project extracts and organizes metadata from scientific articles using the 
 - pandas
 
 ## Example of a Markdown Outpu File
+
+![file_order](https://github.com/Fran-bot0/article-metadata-scraping-pubmed-api/blob/main/output/output_image.png)
